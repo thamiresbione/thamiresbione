@@ -1,5 +1,5 @@
 
-![helloo-world](https://github.com/thamiresbione/thamiresbione/assets/8932733/6b50e7a5-279c-4093-ae35-0b16439ee66f)
+![git-profile](https://github.com/thamiresbione/thamiresbione/assets/8932733/1aa9ec11-91b1-4874-9de3-f68833ccea9d)
 
 
 ```plaintext
