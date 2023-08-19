@@ -1,5 +1,4 @@
-
-![Sem título (3)](https://github.com/thamiresbione/thamiresbione/assets/8932733/953254d9-b0e4-4041-8822-5077ba963d46)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&duration=1000&pause=1000&color=0EBB0D&vCenter=true&multiline=true&width=435&height=200&lines=root%40cyberworld%3A~%24+whoami;Thamires+Bione;root%40cybeword%3A~%24+pwd;%2FDFIR%2FTHREAT-INTEL%2FETHICAL-HACKER)](https://git.io/typing-svg)
 ```plaintext
 Welcome to the Matrix Terminal
 Initializing User: thamires_bione
