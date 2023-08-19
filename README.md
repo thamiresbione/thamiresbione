@@ -1,8 +1,5 @@
-<center>
-![git-profile](https://github.com/thamiresbione/thamiresbione/assets/8932733/1aa9ec11-91b1-4874-9de3-f68833ccea9d) 
-</center>
 
-
+![Sem título (3)](https://github.com/thamiresbione/thamiresbione/assets/8932733/953254d9-b0e4-4041-8822-5077ba963d46)
 ```plaintext
 Welcome to the Matrix Terminal
 Initializing User: thamires_bione
