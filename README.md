@@ -1,5 +1,6 @@
-
-![git-profile](https://github.com/thamiresbione/thamiresbione/assets/8932733/1aa9ec11-91b1-4874-9de3-f68833ccea9d)
+<center>
+![git-profile](https://github.com/thamiresbione/thamiresbione/assets/8932733/1aa9ec11-91b1-4874-9de3-f68833ccea9d) 
+</center>
 
 
 ```plaintext
