@@ -3,14 +3,10 @@
 ```plaintext
 Welcome to the Matrix Terminal
 Initializing User: thamires_bione
-
-Username: thamires_bione
-Occupation: Software Engineer & Cybersecurity Specialist
-
 Matrix Simulation Version: 3.5
 System Status: Online
 ```
-## Welcome, Digital Traveler! 👋
+## Hey! 👋
 
 I'm Thamires Bione, a seeker in the digital abyss, blending the worlds of software engineering and cybersecurity. 
 
