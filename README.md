@@ -6,27 +6,12 @@ Initializing User: thamires_bione
 Matrix Simulation Version: 3.5
 System Status: Online
 ```
-## Hey! 👋
+# Cyber Sentinel: Bridging Realities with DFIR, Ethical Hacking, and Threat Intelligence
 
-I'm Thamires Bione, a seeker in the digital abyss, blending the worlds of software engineering and cybersecurity. 
+Greetings, fellow seekers of digital truth! I am a dedicated cybersecurity professional, specializing in **Digital Forensics and Incident Response (DFIR)**, **Ethical Hacking**, and **Threat Intelligence**. Much like the heroes of *Star Wars* and the code warriors of *Matrix*, I navigate the intricate cyber cosmos armed with tools like Wireshark, Volatility, and Snort, deciphering codes like Neo and predicting threats like a Jedi Master.
 
-## 🚀 Expertise
+As we embark on this cyber journey together, let's harness the power of these tools to secure our digital universe and ensure the Force of cybersecurity is with us, always.
 
-In my arsenal of skills, I wield the following cyber-empowering tools:
-
-### Digital Forensics 🕵️‍♀️
-
-Unraveling the past by deciphering the echoes of digital interactions, I engage in digital forensics to reconstruct events, uncovering secrets hidden within the ones and zeros.
-
-### Incident Response 🛡️
-
-When the digital tempest rages, I stand as a beacon of order. My expertise in incident response allows me to defuse threats and restore equilibrium to the digital chaos.
-
-### Threat Intelligence 🌐
-
-By listening to the whispers of the digital winds, I anticipate threats before they materialize. My insights into threat intelligence fortify defenses against unseen adversaries.
-
-### Ethical Hacking 🦠
 
 Venturing into the shadows with noble intent, I expose vulnerabilities before malicious actors can exploit them. My ethical hacking skills are a shield, safeguarding the digital realm.
 
