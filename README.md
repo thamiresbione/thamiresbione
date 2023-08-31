@@ -7,7 +7,7 @@ System Status: Online
 ```
 # Hey! I'm Thamires Bione :) 
 
-I'm a dedicated cybersecurity professional, software engineer and a lifelong learner, specializing in **Digital Forensics and Incident Response (DFIR)**, **Ethical Hacking**, and **Threat Intelligence**. Much like the heroes of *Star Wars* and the code warriors of *Matrix*, I navigate the intricate cyber cosmos armed with tools like Wireshark, Volatility, and Snort, deciphering codes like Neo and predicting threats like a Jedi Master.
+I'm a cybersecurity professional, software engineer and a lifelong learner, specializing in **Digital Forensics and Incident Response (DFIR)**, **Ethical Hacking**, and **Threat Intelligence**. Much like the heroes of *Star Wars* and the code warriors of *Matrix*, I navigate the intricate cyber cosmos armed with tools like Wireshark, Volatility, and Snort, deciphering codes like Neo and predicting threats like a Jedi Master.
 
 >_“It’s all right, Anakin. Not all Force abilities come easily to everyone. This is why we study, why we learn. Skill is the child of patience._”
 
